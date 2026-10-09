@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789116494110,
+      "tag": "0000_omniscient_lenny_balinger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789116517406,
+      "tag": "0001_blue_hairball",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789117677669,
+      "tag": "0002_chubby_energizer",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1789127121272,
+      "tag": "0003_eminent_owl",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791223061549,
+      "tag": "0005_collaboration",
+      "breakpoints": true
+    }
+  ]
+}
